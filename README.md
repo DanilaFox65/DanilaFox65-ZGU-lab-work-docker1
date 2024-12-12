@@ -24,6 +24,20 @@
 
 -![all text](6.jpg)
 
+## Задание 4:
 
+-![all text](7.jpg)
+
+## Задание 5:
+
+-![all text](8.jpg)
+
+-![all text](9.jpg)
+
+-![all text](10.jpg)
+
+-![all text](11.jpg)
+
+-![all text](12.jpg)
 
 
