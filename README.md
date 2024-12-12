@@ -13,3 +13,17 @@
 - ![all text](1.jpg)
 
 - ![all text](2.jpg)
+
+## Задание 3:
+
+-![all text](3.1.jpg)
+
+-![all text](5.jpg)
+
+-![all text](4.1.jpg)
+
+-![all text](6.jpg)
+
+
+
+
