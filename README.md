@@ -10,6 +10,6 @@
 
 ## Задание 2: Добавить ссылку на картинку
 
-- ![all text](2.jpg)
+- ![all text](1.jpg)
 
-- ![all text](3.jpg)
+- ![all text](2.jpg)
