@@ -4,11 +4,11 @@
 
 Автор: Ворончук Даниил
 
-## Задание 1: Использование образа Nginx
+## Задание 1: 
 
 - Ссылка на образ: [custom-nginx](https://hub.docker.com/repository/docker/fiverexam/custom-nginx/tags)
 
-## Задание 2: Добавить ссылку на картинку
+## Задание 2: 
 
 - ![all text](1.jpg)
 
