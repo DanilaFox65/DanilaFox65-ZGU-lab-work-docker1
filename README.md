@@ -6,6 +6,8 @@
 
 ## Задание 1: 
 
+- ![all text](docfile.jpg)
+
 - Ссылка на образ: [custom-nginx](https://hub.docker.com/repository/docker/fiverexam/custom-nginx/tags)
 
 ## Задание 2: 
@@ -33,6 +35,8 @@
 ## Задание 5:
 
 -![all text](8.jpg)
+
+-
 
 -![all text](9.jpg)
 
